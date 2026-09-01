@@ -1,0 +1,6 @@
+{
+  "cmake.cmakePath": "C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+  "cmake.useCMakePresets": "always",
+  "cmake.configureOnOpen": true,
+  "cmake.generator": "Visual Studio 18 2026"
+}

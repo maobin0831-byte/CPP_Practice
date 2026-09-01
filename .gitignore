@@ -1,0 +1,6 @@
+out/
+.vs/
+*.user
+*.suo
+
+build/

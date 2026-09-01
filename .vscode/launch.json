@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug: Effective Modern C++ (MSVC)",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/out/build/vs2026/Debug/effective_modern_cpp.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "console": "integratedTerminal",
+      "preLaunchTask": "CMake: build MSVC Debug"
+    }
+  ]
+}
